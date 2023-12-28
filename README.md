@@ -50,10 +50,9 @@ RMSE is defined as follows:
 
 ![RMSE Formula](https://latex.codecogs.com/svg.latex?RMSE%20=%20\sqrt{\frac{1}{n}%20\sum_{i=1}^{n}%20(y_i%20-%20\hat{y}_i)^2})
 
-
-
-![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/608d13d0-75b1-4eda-90b3-c9b94d044559)
-
+yi is the actual value for the ith observation.
+ŷi is the predicted value for the ith observation.
+N is the number of observations.
 
 ## Insights
 
