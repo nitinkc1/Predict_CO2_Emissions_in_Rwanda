@@ -1,4 +1,4 @@
-
+![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/3a9ce523-ea13-4b91-8b67-ae96dc5e6b23)
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
@@ -20,7 +20,7 @@ Seven main features were extracted weekly from Sentinel-5P, including:
 5. UV Aerosol Index 
 6. Ozone 
 7. Cloud
-8. 
+
 Each feature includes sub-features, such as `column_number_density`, representing the vertical column density at ground level, calculated using the Differential Optical Absorption Spectroscopy (DOAS) technique.
 
 ## Files
@@ -61,6 +61,10 @@ Below is a summary of the performance of various machine learning models in pred
 
 ## Insights
 
+![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/17ccae8e-5f6e-4b54-a65f-c5be6f49cac0)
+![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/78fa1a60-9415-4099-9add-c2d035dc2dc4)
+
+
 ### Best Performing Models
 1. **Random Forest:** The Random Forest model exhibits the lowest error, suggesting it provides the most accurate predictions among the models tested.
 
@@ -74,6 +78,9 @@ Below is a summary of the performance of various machine learning models in pred
 2. **Support Vector Machines (SVM):** SVM has a significantly higher error, suggesting it may not be well-suited for this specific task or may require additional tuning.
 
 3. **Linear Regression:** Linear Regression exhibits a high error, indicating that the relationship between features and emissions may not be adequately captured by a linear model.
+
+![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/3870caa3-1891-4c2e-bccf-13cb29d02dbf)
+
 
 ## Next Steps
 1. **Model Tuning:** Explore hyperparameter tuning for the models, especially Gradient Boosting Machines and Support Vector Machines, to potentially improve performance.
