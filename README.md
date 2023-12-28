@@ -45,7 +45,7 @@ RMSE is defined as follows:
 
 - yi is the actual value for the ith observation.
 - ŷi is the predicted value for the ith observation.
-- N is the number of observations.
+- n is the number of observations.
 
 ## Insights
 
