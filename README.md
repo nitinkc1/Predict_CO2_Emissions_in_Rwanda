@@ -48,12 +48,8 @@ This repository provides insights into the evaluation metric used for assessing 
 
 RMSE is defined as follows:
 
-\[ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} \]
+![RMSE Formula](https://latex.codecogs.com/svg.latex?RMSE%20=%20\sqrt{\frac{1}{n}%20\sum_{i=1}^{n}%20(y_i%20-%20\hat{y}_i)^2})
 
-Where:
-- \( n \) is the number of instances.
-- \( y_i \) represents the original (actual) value for the \( i^{th} \) instance.
-- \( \hat{y}_i \) represents the predicted value for the \( i^{th} \) instance.
 
 
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/608d13d0-75b1-4eda-90b3-c9b94d044559)
