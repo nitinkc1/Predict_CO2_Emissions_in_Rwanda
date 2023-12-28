@@ -39,13 +39,6 @@ git clone (https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda)
 cd predicting-carbon-emissions
 ```
 
-## Dependencies
-Ensure you have the required dependencies installed. You can install them using the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
 # Model Performance Summary
 
 Below is a summary of the performance of various machine learning models in predicting carbon emissions for the Kaggle competition. The error values are reported to provide insights into the accuracy of each model.
@@ -102,9 +95,5 @@ Below is a summary of the performance of various machine learning models in pred
 5. **Validation Strategies:** Evaluate the models using different validation strategies to ensure robustness and reliability.
 
 ## Acknowledgments
-- Thank you for your efforts in exploring and experimenting with various machine learning models. Keep iterating and refining your approach to achieve the best possible     
-  performance in the Kaggle competition. Good luck! 🚀
 - Kaggle for hosting the competition
 - Sentinel-5P for providing the emissions data
-
-Happy coding and best of luck with the competition! 🚀
