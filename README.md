@@ -10,7 +10,7 @@ This repository contains code and resources for the Kaggle competition on predic
 The dataset consists of approximately 497 unique locations across Rwanda, covering farm lands, cities, and power plants. The data is split by time, with training data containing information from 2019 to 2021, and the task is to predict CO2 emissions for 2022 through November.
 
 ### Features
-Seven main features were extracted weekly from Sentinel-5P, including:
+Eight main features were extracted weekly from Sentinel-5P, including:
 
 1. Sulphur Dioxide 
 2. Carbon Monoxide 
