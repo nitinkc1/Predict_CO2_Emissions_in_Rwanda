@@ -13,14 +13,14 @@ The dataset consists of approximately 497 unique locations across Rwanda, coveri
 ### Features
 Seven main features were extracted weekly from Sentinel-5P, including:
 
-1. Sulphur Dioxide - [Link to data](https://www.kaggle.com/competition/infer-emission/data?select=COPERNICUS%2FS5P%2FNRTI%2FL3_SO2)
-2. Carbon Monoxide - [Link to data](https://www.kaggle.com/competition/infer-emission/data?select=COPERNICUS%2FS5P%2FNRTI%2FL3_CO)
-3. Nitrogen Dioxide - [Link to data](https://www.kaggle.com/competition/infer-emission/data?select=COPERNICUS%2FS5P%2FNRTI%2FL3_NO2)
-4. Formaldehyde - [Link to data](https://www.kaggle.com/competition/infer-emission/data?select=COPERNICUS%2FS5P%2FNRTI%2FL3_HCHO)
-5. UV Aerosol Index - [Link to data](https://www.kaggle.com/competition/infer-emission/data?select=COPERNICUS%2FS5P%2FNRTI%2FL3_AER_AI)
-6. Ozone - [Link to data](https://www.kaggle.com/competition/infer-emission/data?select=COPERNICUS%2FS5P%2FNRTI%2FL3_O3)
-7. Cloud - [Link to data](https://www.kaggle.com/competition/infer-emission/data?select=COPERNICUS%2FS5P%2FOFFL%2FL3_CLOUD)
-
+1. Sulphur Dioxide 
+2. Carbon Monoxide 
+3. Nitrogen Dioxide 
+4. Formaldehyde 
+5. UV Aerosol Index 
+6. Ozone 
+7. Cloud
+8. 
 Each feature includes sub-features, such as `column_number_density`, representing the vertical column density at ground level, calculated using the Differential Optical Absorption Spectroscopy (DOAS) technique.
 
 ## Files
@@ -55,7 +55,7 @@ Below is a summary of the performance of various machine learning models in pred
 | Random Forest                      | 16.64       |
 | Decision Trees                     | 19.49       |
 | XGBoost                            | 21.56       |
-| Gradient Boosting Machines (GBM)    | 62.32       |
+| Gradient Boosting Machines (GBM)   | 62.32       |
 | Support Vector Machines (SVM)      | 124.88      |
 | Linear Regression                  | 127.15      |
 
