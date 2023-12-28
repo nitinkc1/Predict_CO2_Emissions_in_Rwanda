@@ -24,9 +24,9 @@ Seven main features were extracted weekly from Sentinel-5P, including:
 Each feature includes sub-features, such as `column_number_density`, representing the vertical column density at ground level, calculated using the Differential Optical Absorption Spectroscopy (DOAS) technique.
 
 ## Files
-- `train.csv`: The training set [Link ](https://www.kaggle.com/competitions/playground-series-s3e20/data?select=sample_submission.csv)
+- `train.csv`: The training set [Link ](https://www.kaggle.com/competitions/playground-series-s3e20/data?select=train.csv)
 - `test.csv`: The test set; the task is to predict the emission target for each week at each location [Link ](https://www.kaggle.com/competitions/playground-series-s3e20/data?select=test.csv)
-- `sample_submission.csv`: A sample submission file in the correct format [Link](https://www.kaggle.com/competitions/playground-series-s3e20/data?select=train.csv)
+- `sample_submission.csv`: A sample submission file in the correct format [Link](https://www.kaggle.com/competitions/playground-series-s3e20/data?select=sample_submission.csv)
 
 ## Important Note
 Please only use the provided data for modeling efforts. Do not incorporate any external data, including additional Sentinel-5P data not provided in this competition.
