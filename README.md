@@ -61,10 +61,15 @@ Below is a summary of the performance of various machine learning models in pred
 
 ## Insights
 
-- Emission Trend Values Over Weeks
+## Emission Trend Values Over Weeks
+
+
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/17ccae8e-5f6e-4b54-a65f-c5be6f49cac0)
 
-- Emission Trend Values Over Years
+
+## Emission Trend Values Over Years
+
+
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/78fa1a60-9415-4099-9add-c2d035dc2dc4)
 
 
