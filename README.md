@@ -38,19 +38,23 @@ To get started with the project, clone this repository and refer to the Jupyter 
 git clone (https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda)
 cd predicting-carbon-emissions
 ```
+# Evaluation Metrics: Root Mean Squared Error (RMSE)
 
-# Model Performance Summary
+## Overview
 
-Below is a summary of the performance of various machine learning models in predicting carbon emissions for the Kaggle competition. The error values are reported to provide insights into the accuracy of each model.
+This repository provides insights into the evaluation metric used for assessing predictive models: Root Mean Squared Error (RMSE). RMSE is a widely adopted metric, particularly in regression tasks, measuring the accuracy of a model's predictions by calculating the square root of the mean of squared errors.
 
-| Model                              | Error       |
-| ---------------------------------- | ----------- |
-| Random Forest                      | 16.64       |
-| Decision Trees                     | 19.49       |
-| XGBoost                            | 21.56       |
-| Gradient Boosting Machines (GBM)   | 62.32       |
-| Support Vector Machines (SVM)      | 124.88      |
-| Linear Regression                  | 127.15      |
+## Root Mean Squared Error (RMSE)
+
+RMSE is defined as follows:
+
+\[ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} \]
+
+Where:
+- \( n \) is the number of instances.
+- \( y_i \) represents the original (actual) value for the \( i^{th} \) instance.
+- \( \hat{y}_i \) represents the predicted value for the \( i^{th} \) instance.
+
 
 ## Insights
 
@@ -93,6 +97,19 @@ Below is a summary of the performance of various machine learning models in pred
 4. **Data Analysis:** Conduct a detailed analysis of feature importance to understand the factors influencing the model predictions.
 
 5. **Validation Strategies:** Evaluate the models using different validation strategies to ensure robustness and reliability.
+
+# Model Performance Summary
+
+Below is a summary of the performance of various machine learning models in predicting carbon emissions for the Kaggle competition. The error values are reported to provide insights into the accuracy of each model.
+
+| Model                              | Error       |
+| ---------------------------------- | ----------- |
+| Random Forest                      | 16.64       |
+| Decision Trees                     | 19.49       |
+| XGBoost                            | 21.56       |
+| Gradient Boosting Machines (GBM)   | 62.32       |
+| Support Vector Machines (SVM)      | 124.88      |
+| Linear Regression                  | 127.15      |
 
 ## Acknowledgments
 - Kaggle for hosting the competition
