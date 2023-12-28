@@ -31,13 +31,6 @@ Each feature includes sub-features, such as `column_number_density`, representin
 ## Important Note
 Please only use the provided data for modeling efforts. Do not incorporate any external data, including additional Sentinel-5P data not provided in this competition.
 
-## Getting Started
-To get started with the project, clone this repository and refer to the Jupyter notebooks for data exploration, model development, and evaluation.
-
-```bash
-git clone (https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda)
-cd predicting-carbon-emissions
-```
 # Evaluation Metrics: Root Mean Squared Error (RMSE)
 
 ## Overview
