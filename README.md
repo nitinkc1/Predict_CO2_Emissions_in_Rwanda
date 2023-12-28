@@ -61,7 +61,10 @@ Below is a summary of the performance of various machine learning models in pred
 
 ## Insights
 
+- Emission Trend Values Over Weeks
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/17ccae8e-5f6e-4b54-a65f-c5be6f49cac0)
+
+- Emission Trend Values Over Years
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/78fa1a60-9415-4099-9add-c2d035dc2dc4)
 
 
@@ -94,7 +97,8 @@ Below is a summary of the performance of various machine learning models in pred
 5. **Validation Strategies:** Evaluate the models using different validation strategies to ensure robustness and reliability.
 
 ## Acknowledgments
--Thank you for your efforts in exploring and experimenting with various machine learning models. Keep iterating and refining your approach to achieve the best possible performance in the Kaggle competition. Good luck! 🚀
+- Thank you for your efforts in exploring and experimenting with various machine learning models. Keep iterating and refining your approach to achieve the best possible     
+  performance in the Kaggle competition. Good luck! 🚀
 - Kaggle for hosting the competition
 - Sentinel-5P for providing the emissions data
 
