@@ -54,7 +54,7 @@ RMSE is defined as follows:
 
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/17ccae8e-5f6e-4b54-a65f-c5be6f49cac0)
 
-## Emission By Month
+## Emission Trend Values By Month
 
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/9be800f2-52ee-4164-83db-cc2d2955abfb)
 
@@ -65,7 +65,7 @@ RMSE is defined as follows:
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/78fa1a60-9415-4099-9add-c2d035dc2dc4)
 
 
-## MONTHLY EMISSION OVER YEARS
+## EMISSION Values OVER YEARS-MONTH
 
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/51f37a24-e424-49c1-be7c-2b4b3dffca4d)
 
