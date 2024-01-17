@@ -95,12 +95,14 @@ Below is a summary of the performance of various machine learning models in pred
 
 # Machine Learning Models and Errors
 
-| Model                              | Error    |
-|------------------------------------|----------|
-| Random Forest                      | 1.599213 |
-| Gradient Boosting Machines (GBM)   | 1.629526 |
-| Decision Trees                     | 1.766125 |
-| Linear Regression                  | 4.099782 |
+# Model Performance Metrics
+
+| Model                    | RMSE                   | R-squared            |
+|--------------------------|------------------------|----------------------|
+| Linear Regression        | 4.099781875787298      | 0.07111067682647543  |
+| Decision Tree            | 1.766124569996646      | 0.827620691797228    |
+| Random Forest            | 1.5992133748558037     | 0.858663186651433    |
+| Gradient Boosting Machine| 1.6295264374451177     | 0.8532543317180261   |
 
 
 ## Acknowledgments
