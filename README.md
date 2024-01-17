@@ -93,14 +93,15 @@ RMSE is defined as follows:
 
 Below is a summary of the performance of various machine learning models in predicting carbon emissions for the Kaggle competition. The error values are reported to provide insights into the accuracy of each model.
 
-| Model                              | Error       |
-| ---------------------------------- | ----------- |
-| Random Forest                      | 16.64       |
-| Decision Trees                     | 19.49       |
-| XGBoost                            | 21.56       |
-| Gradient Boosting Machines (GBM)   | 62.32       |
-| Support Vector Machines (SVM)      | 124.88      |
-| Linear Regression                  | 127.15      |
+# Machine Learning Models and Errors
+
+| Model                              | Error    |
+|------------------------------------|----------|
+| Random Forest                      | 1.599213 |
+| Gradient Boosting Machines (GBM)   | 1.629526 |
+| Decision Trees                     | 1.766125 |
+| Linear Regression                  | 4.099782 |
+
 
 ## Acknowledgments
 - Kaggle for hosting the competition
