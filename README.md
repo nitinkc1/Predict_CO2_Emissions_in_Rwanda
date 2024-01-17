@@ -54,6 +54,10 @@ RMSE is defined as follows:
 
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/17ccae8e-5f6e-4b54-a65f-c5be6f49cac0)
 
+## Emission By Month
+
+![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/9be800f2-52ee-4164-83db-cc2d2955abfb)
+
 
 ## Emission Trend Values Over Years
 
@@ -61,19 +65,20 @@ RMSE is defined as follows:
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/78fa1a60-9415-4099-9add-c2d035dc2dc4)
 
 
+## MONTHLY EMISSION OVER YEARS
+
+![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/51f37a24-e424-49c1-be7c-2b4b3dffca4d)
+
 ### Best Performing Models
 1. **Random Forest:** The Random Forest model exhibits the lowest error, suggesting it provides the most accurate predictions among the models tested.
 
 2. **Decision Trees:** Decision Trees also perform well, with a relatively low error compared to other models.
 
-3. **XGBoost:** XGBoost, while not as accurate as Random Forest, still demonstrates good performance with a moderate error.
 
 ### Models to Investigate
 1. **Gradient Boosting Machines (GBM):** The GBM model shows a higher error compared to Random Forest, indicating potential areas for improvement or optimization.
 
-2. **Support Vector Machines (SVM):** SVM has a significantly higher error, suggesting it may not be well-suited for this specific task or may require additional tuning.
-
-3. **Linear Regression:** Linear Regression exhibits a high error, indicating that the relationship between features and emissions may not be adequately captured by a linear model.
+2. **Linear Regression:** Linear Regression exhibits a high error, indicating that the relationship between features and emissions may not be adequately captured by a linear model.
 
 ![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/3870caa3-1891-4c2e-bccf-13cb29d02dbf)
 
