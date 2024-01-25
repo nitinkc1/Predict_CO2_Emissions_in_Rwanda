@@ -80,7 +80,8 @@ RMSE is defined as follows:
 
 2. **Linear Regression:** Linear Regression exhibits a high error, indicating that the relationship between features and emissions may not be adequately captured by a linear model.
 
-![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/3870caa3-1891-4c2e-bccf-13cb29d02dbf)
+![image](https://github.com/nitinkc1/Predict_CO2_Emissions_in_Rwanda/assets/130339748/eb8dc60a-552b-4388-8086-04e021407704)
+
 
 
 ## Next Steps
